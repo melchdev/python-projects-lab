@@ -1,0 +1,406 @@
+[
+  {
+    "question": "Who was the first emperor of Rome?",
+    "answer": "Augustus"
+  },
+  {
+    "question": "Which ancient civilization built the pyramids of Giza?",
+    "answer": "Ancient Egypt"
+  },
+  {
+    "question": "Which river was essential to ancient Egyptian civilization?",
+    "answer": "The Nile River"
+  },
+  {
+    "question": "What was the writing system of ancient Egypt called?",
+    "answer": "Hieroglyphics"
+  },
+  {
+    "question": "Who was the Egyptian queen known for her relationships with Julius Caesar and Mark Antony?",
+    "answer": "Cleopatra"
+  },
+  {
+    "question": "Who was assassinated on the Ides of March?",
+    "answer": "Julius Caesar"
+  },
+  {
+    "question": "What language did ancient Romans speak?",
+    "answer": "Latin"
+  },
+  {
+    "question": "What Roman structure was used for gladiator games?",
+    "answer": "The Colosseum"
+  },
+  {
+    "question": "Which city was destroyed by Mount Vesuvius in 79 AD?",
+    "answer": "Pompeii"
+  },
+  {
+    "question": "Who was the famous Macedonian king who created a large empire?",
+    "answer": "Alexander the Great"
+  },
+  {
+    "question": "Which ancient Greek city-state was known for its military culture?",
+    "answer": "Sparta"
+  },
+  {
+    "question": "Which ancient Greek city-state is often associated with democracy?",
+    "answer": "Athens"
+  },
+  {
+    "question": "Who was the Greek philosopher who taught Alexander the Great?",
+    "answer": "Aristotle"
+  },
+  {
+    "question": "Who was the Greek philosopher sentenced to death by drinking hemlock?",
+    "answer": "Socrates"
+  },
+  {
+    "question": "Which ancient civilization created the Olympic Games?",
+    "answer": "Ancient Greece"
+  },
+  {
+    "question": "Who was the first emperor of China?",
+    "answer": "Qin Shi Huang"
+  },
+  {
+    "question": "What structure was built to help protect China from northern invasions?",
+    "answer": "The Great Wall of China"
+  },
+  {
+    "question": "Which Chinese invention helped make books more widely available?",
+    "answer": "Printing"
+  },
+  {
+    "question": "What trade route connected China with Europe and the Middle East?",
+    "answer": "The Silk Road"
+  },
+  {
+    "question": "Which dynasty is known for building much of the Great Wall of China?",
+    "answer": "The Ming Dynasty"
+  },
+  {
+    "question": "Which civilization built Machu Picchu?",
+    "answer": "The Inca"
+  },
+  {
+    "question": "In which modern country is Machu Picchu located?",
+    "answer": "Peru"
+  },
+  {
+    "question": "What was the capital of the Aztec Empire?",
+    "answer": "Tenochtitlan"
+  },
+  {
+    "question": "Which empire was conquered by Hernán Cortés?",
+    "answer": "The Aztec Empire"
+  },
+  {
+    "question": "Which empire was conquered by Francisco Pizarro?",
+    "answer": "The Inca Empire"
+  },
+  {
+    "question": "Which civilization built cities such as Chichen Itza?",
+    "answer": "The Maya"
+  },
+  {
+    "question": "Which South American leader is known as El Libertador?",
+    "answer": "Simón Bolívar"
+  },
+  {
+    "question": "Which country did Simón Bolívar help liberate from Spanish rule?",
+    "answer": "Venezuela"
+  },
+  {
+    "question": "Who led Argentina, Chile, and Peru in independence campaigns?",
+    "answer": "José de San Martín"
+  },
+  {
+    "question": "In which year did Mexico begin its war of independence from Spain?",
+    "answer": "1810"
+  },
+  {
+    "question": "Which priest is associated with the beginning of Mexican independence?",
+    "answer": "Miguel Hidalgo"
+  },
+  {
+    "question": "Which country gained independence from Portugal in 1822?",
+    "answer": "Brazil"
+  },
+  {
+    "question": "Who was the first emperor of Brazil?",
+    "answer": "Pedro I"
+  },
+  {
+    "question": "Which country did Haiti gain independence from?",
+    "answer": "France"
+  },
+  {
+    "question": "In which year did Haiti become independent?",
+    "answer": "1804"
+  },
+  {
+    "question": "Who was a key leader of the Haitian Revolution?",
+    "answer": "Toussaint Louverture"
+  },
+  {
+    "question": "In which country did the Renaissance begin?",
+    "answer": "Italy"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "answer": "Michelangelo"
+  },
+  {
+    "question": "Who is credited with inventing the movable-type printing press in Europe?",
+    "answer": "Johannes Gutenberg"
+  },
+  {
+    "question": "Who wrote The Prince?",
+    "answer": "Niccolò Machiavelli"
+  },
+  {
+    "question": "Which explorer sailed across the Atlantic in 1492?",
+    "answer": "Christopher Columbus"
+  },
+  {
+    "question": "Which country sponsored Christopher Columbus's 1492 voyage?",
+    "answer": "Spain"
+  },
+  {
+    "question": "Who led the first expedition to circumnavigate the globe?",
+    "answer": "Ferdinand Magellan"
+  },
+  {
+    "question": "Which explorer reached India by sailing around Africa?",
+    "answer": "Vasco da Gama"
+  },
+  {
+    "question": "What document was signed by King John of England in 1215?",
+    "answer": "Magna Carta"
+  },
+  {
+    "question": "Which English king signed the Magna Carta?",
+    "answer": "King John"
+  },
+  {
+    "question": "In which year was the Magna Carta signed?",
+    "answer": "1215"
+  },
+  {
+    "question": "Which English king had six wives?",
+    "answer": "Henry VIII"
+  },
+  {
+    "question": "Who was the English queen known as the Virgin Queen?",
+    "answer": "Elizabeth I"
+  },
+  {
+    "question": "Which battle in 1066 changed English history?",
+    "answer": "The Battle of Hastings"
+  },
+  {
+    "question": "Who won the Battle of Hastings?",
+    "answer": "William the Conqueror"
+  },
+  {
+    "question": "Which empire captured Constantinople in 1453?",
+    "answer": "The Ottoman Empire"
+  },
+  {
+    "question": "What city was previously known as Constantinople?",
+    "answer": "Istanbul"
+  },
+  {
+    "question": "In which year did Constantinople fall to the Ottomans?",
+    "answer": "1453"
+  },
+  {
+    "question": "Who was the Ottoman sultan who captured Constantinople?",
+    "answer": "Mehmed II"
+  },
+  {
+    "question": "Who was the French military leader who became emperor?",
+    "answer": "Napoleon Bonaparte"
+  },
+  {
+    "question": "What battle marked Napoleon's final defeat?",
+    "answer": "The Battle of Waterloo"
+  },
+  {
+    "question": "In which year was the Battle of Waterloo?",
+    "answer": "1815"
+  },
+  {
+    "question": "Which country had a revolution that began in 1789?",
+    "answer": "France"
+  },
+  {
+    "question": "What prison was stormed at the beginning of the French Revolution?",
+    "answer": "The Bastille"
+  },
+  {
+    "question": "Who was the king of France during the French Revolution?",
+    "answer": "Louis XVI"
+  },
+  {
+    "question": "Who was the queen of France during the French Revolution?",
+    "answer": "Marie Antoinette"
+  },
+  {
+    "question": "What device was used for executions during the French Revolution?",
+    "answer": "The guillotine"
+  },
+  {
+    "question": "Who was the Russian ruler known as Peter the Great?",
+    "answer": "Peter I"
+  },
+  {
+    "question": "Who was the Russian empress known as Catherine the Great?",
+    "answer": "Catherine II"
+  },
+  {
+    "question": "What was the name of the Russian royal family overthrown in 1917?",
+    "answer": "The Romanovs"
+  },
+  {
+    "question": "Who was the last tsar of Russia?",
+    "answer": "Nicholas II"
+  },
+  {
+    "question": "Who was the leader of the Bolsheviks during the Russian Revolution?",
+    "answer": "Vladimir Lenin"
+  },
+  {
+    "question": "Which country was ruled by Adolf Hitler during World War II?",
+    "answer": "Germany"
+  },
+  {
+    "question": "In which year did World War II begin in Europe?",
+    "answer": "1939"
+  },
+  {
+    "question": "In which year did World War II end?",
+    "answer": "1945"
+  },
+  {
+    "question": "Which country did Germany invade to start World War II in Europe?",
+    "answer": "Poland"
+  },
+  {
+    "question": "What was the name of the Allied invasion of Normandy?",
+    "answer": "D-Day"
+  },
+  {
+    "question": "In which year did D-Day take place?",
+    "answer": "1944"
+  },
+  {
+    "question": "Who was the British prime minister during much of World War II?",
+    "answer": "Winston Churchill"
+  },
+  {
+    "question": "Which country attacked Pearl Harbor in 1941?",
+    "answer": "Japan"
+  },
+  {
+    "question": "In which year did World War I begin?",
+    "answer": "1914"
+  },
+  {
+    "question": "In which year did World War I end?",
+    "answer": "1918"
+  },
+  {
+    "question": "Whose assassination helped trigger World War I?",
+    "answer": "Archduke Franz Ferdinand"
+  },
+  {
+    "question": "What treaty formally ended World War I?",
+    "answer": "The Treaty of Versailles"
+  },
+  {
+    "question": "Which organization was created after World War I to promote peace?",
+    "answer": "The League of Nations"
+  },
+  {
+    "question": "Which organization was created after World War II to promote international cooperation?",
+    "answer": "The United Nations"
+  },
+  {
+    "question": "What wall divided East and West Berlin during the Cold War?",
+    "answer": "The Berlin Wall"
+  },
+  {
+    "question": "In which year did the Berlin Wall fall?",
+    "answer": "1989"
+  },
+  {
+    "question": "Which two superpowers were central to the Cold War?",
+    "answer": "The United States and the Soviet Union"
+  },
+  {
+    "question": "What was the first artificial satellite launched into space?",
+    "answer": "Sputnik"
+  },
+  {
+    "question": "Which country launched Sputnik?",
+    "answer": "The Soviet Union"
+  },
+  {
+    "question": "Who was the first person to walk on the Moon?",
+    "answer": "Neil Armstrong"
+  },
+  {
+    "question": "In which year did humans first land on the Moon?",
+    "answer": "1969"
+  },
+  {
+    "question": "What was the name of the mission that first landed humans on the Moon?",
+    "answer": "Apollo 11"
+  },
+  {
+    "question": "Who was the leader of the Indian independence movement known for nonviolent resistance?",
+    "answer": "Mahatma Gandhi"
+  },
+  {
+    "question": "In which year did India gain independence from Britain?",
+    "answer": "1947"
+  },
+  {
+    "question": "Who was the first prime minister of independent India?",
+    "answer": "Jawaharlal Nehru"
+  },
+  {
+    "question": "Who was the South African leader imprisoned for many years before becoming president?",
+    "answer": "Nelson Mandela"
+  },
+  {
+    "question": "What system of racial segregation existed in South Africa?",
+    "answer": "Apartheid"
+  },
+  {
+    "question": "In which country did the Industrial Revolution begin?",
+    "answer": "Great Britain"
+  },
+  {
+    "question": "What machine was central to the early Industrial Revolution?",
+    "answer": "The steam engine"
+  },
+  {
+    "question": "Who is associated with improving the steam engine?",
+    "answer": "James Watt"
+  },
+  {
+    "question": "Which canal opened in 1869 and connected the Mediterranean Sea to the Red Sea?",
+    "answer": "The Suez Canal"
+  },
+  {
+    "question": "Which canal opened in 1914 and connected the Atlantic and Pacific Oceans?",
+    "answer": "The Panama Canal"
+  }
+]
