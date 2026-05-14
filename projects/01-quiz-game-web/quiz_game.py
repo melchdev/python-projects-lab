@@ -61,15 +61,23 @@ def run_quiz(playing):
             if ask_question(question):
                 points +=1
 
-        play_again = int(input("Do you want to play again?\nAnswer 1 if yes "))
+        play_again = int(input("Do you want to play again?\n Write \'yes\' "))
+        play_again = " ".join(play_again.strip().lower().split())
+        play_again = remove_accents(play_again)
 
         if not play_again:
             playing = False
 
 print("Welcome to my History Quiz!")
-playing = input("Do you want to play? ")
+playing = input("Do you want to play? Write \'yes\' ")
+playing = " ".join(playing.strip().lower().split())
+playing = remove_accents(playing)
 
-if playing:
+# TODO validate user input, show score of player after ending each game 
+
+# TODO restructure check_answer to make an universal function to remove spaces en make it lowercase
+
+if playing == 'yes':
 
     print("Okay! Let's get started")
     run_quiz(playing)
