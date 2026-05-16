@@ -43,7 +43,7 @@ Each project is designed to reinforce concepts such as:
 | 03 | Rock Paper Scissors | CLI App | Functions, random module, game logic |
 | 04 | Hangman | CLI App | Strings, lists, control flow |
 | 05 | Password Generator | CLI App | Randomization, string handling |
-| 06 | To Be Added | TBD | TBD |
+| 06 | PIG | CLI App | Medium Python |
 | 07 | To Be Added | TBD | TBD |
 | 08 | To Be Added | TBD | TBD |
 | 09 | To Be Added | TBD | TBD |
